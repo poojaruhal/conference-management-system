@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+
+.navbar-inverse .navbar-brand {
+  color:White;
+}
+	
+	.navbar-brand
+	{
+	font-size : 25px;
+	}
+}
